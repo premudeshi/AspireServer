@@ -1,0 +1,9 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 09 08:16:06.704170 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Feb 09 08:16:06.705014 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Feb 09 08:21:57.883950 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 09 09:24:44.316134 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Feb 09 09:24:44.318502 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Feb 09 09:41:35.648752 2019] [php7:error] [pid 21] [client 172.18.0.1:51448] script '/var/www/html/news.php' not found or unable to stat, referer: http://localhost:24/createlog.php
+[Sat Feb 09 10:53:19.389541 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down

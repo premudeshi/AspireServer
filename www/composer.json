@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "monolog/monolog": "^1.23",
+        "icewind/smb": "^2.0"
+    }
+}
